@@ -13,6 +13,9 @@ files:
   - name: tests.py
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/98/stages/541/implement#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/learn/step/8817#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 29 Aug 2024 15:37:18 UTC"
+record: 3

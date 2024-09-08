@@ -6,15 +6,15 @@ files:
   - name: test/tests.py
     visible: false
     learner_created: false
-  - name: calculator.py
+  - name: billsplitter.py
     visible: true
     learner_created: false
   - name: tests.py
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/28246#comment
+feedback_link: https://hyperskill.org/learn/step/12898#comment
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Thu, 29 Aug 2024 16:34:10 UTC"
+  time: "Fri, 06 Sep 2024 16:20:18 UTC"
 record: 1
